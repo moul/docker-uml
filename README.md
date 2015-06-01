@@ -1,5 +1,4 @@
-# uml-builder
+# docker-uml
 
-This directory contains scripts to build the `uml` binary.
+Run UML in Docker
 
-The binary is released on the [dist](https://github.com/moul/travis-docker/tree/dist) branch of this repo.
